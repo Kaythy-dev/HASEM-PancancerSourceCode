@@ -1,0 +1,6 @@
+Check,Result
+Cohort Separability ROC-AUC (pre-ComBat),0.9998
+Cohort Separability ROC-AUC (post-ComBat),0.9998
+Improvement,-0.0000
+TCGA Solid-Normal samples available,737
+Interpretation,Batch effect present — review recommended

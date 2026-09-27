@@ -1,0 +1,5 @@
+Metric,All tumour samples (incl. cell lines),Patient tumours only (cell lines excluded)
+ROC-AUC,,0.9916802708106215
+PR-AUC,,0.9946188801564108
+Detection %,,97.77714448560843
+False Alarm %,,2.01251687323598
