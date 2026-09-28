@@ -16,7 +16,7 @@ This repository contains the full analysis pipeline, results, and trained models
 | Generalisation test (LOCO-C) | Detection ≥94.97% for 24/25 tissues, even with matching healthy reference tissue fully excluded |
 | Batch-effect check | Genuine technical signal found (GTEx vs TCGA-normal, AUROC 1.0000) and reported directly, alongside evidence it does not drive detection |
 
-Full methodology, ablation, and validation are described in the manuscript.
+The manuscript describes the full methodology, ablation, and validation.
 
 ## Repository structure
 
@@ -101,8 +101,8 @@ A DOI for this repository, via Zenodo, will be added here once minted.
 
 ## License
 
-[MIT / Apache-2.0 — choose one; see LICENSE file]
+This project is licensed under the Apache License, Version 2.0. See the LICENSE file, or view the license text at apache.org/licenses/LICENSE-2.0.
 
 ## Acknowledgements
 
-This work uses data from the GTEx, TCGA, and TARGET consortia and their participants, distributed via the UCSC Xena platform. An AI language assistant (Claude, Anthropic) was used during code development to identify and correct errors in the analysis pipeline; it was not used to draft or generate analysis, results, or interpretation. See the manuscript's Methods section for the full disclosure.
+This work uses data from the GTEx, TCGA, and TARGET consortia and their participants, distributed via the UCSC Xena platform. We used an AI language assistant (Claude, Anthropic) during code development to identify and correct errors in the analysis pipeline; we did not use it to draft or generate analysis, results, or interpretation. See the manuscript's Methods section for the full disclosure.
