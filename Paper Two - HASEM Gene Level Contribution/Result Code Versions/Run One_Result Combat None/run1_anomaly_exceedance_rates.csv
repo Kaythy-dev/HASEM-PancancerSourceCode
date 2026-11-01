@@ -1,0 +1,4 @@
+group,n,T2_exceedances,T2_exceedance_pct,Q_exceedances,Q_exceedance_pct,Either_exceedances,Either_exceedance_pct
+Healthy calibration,1241,13,1.05,13,1.05,19,1.53
+Healthy holdout,1221,5,0.41,12,0.98,13,1.06
+Primary tumours,8502,5386,63.35,4045,47.58,5391,63.41

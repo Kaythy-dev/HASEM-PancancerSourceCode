@@ -1,0 +1,2 @@
+n_candidate_genes,n_random_sets,n_contexts,observed_mean_percentile_rank,random_set_mean,random_set_sd,random_set_q95,random_set_q99,empirical_one_sided_p,random_seed
+8,10000,20,0.7711650000000001,0.5002854965,0.044050110493998804,0.5730984374999999,0.6032341750000001,9.999000099990002e-05,20261029

@@ -1,0 +1,4 @@
+Check,Result
+"Source separability within healthy class, uncorrected (ROC-AUC)",1.0000
+Source separability after correction (ROC-AUC),0.4378
+Correction mode,source_shift

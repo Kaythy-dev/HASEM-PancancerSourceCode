@@ -1,0 +1,2 @@
+Check,ROC_AUC,ROC_AUC_uncorrected,ComBat_mode,n_train,n_holdout
+GTEx vs TCGA/TARGET normal (healthy only; train -> holdout),0.43781348916484053,0.9999918837756676,source_shift,5687,1221
